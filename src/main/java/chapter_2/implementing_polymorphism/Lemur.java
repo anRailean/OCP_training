@@ -3,7 +3,7 @@ package chapter_2.implementing_polymorphism;
 public class Lemur extends Primate implements HasTail {
     public int age = 10;
 
-    public boolean isTailStripped(){
+    public boolean isTailStripped() {
         return false;
     }
 

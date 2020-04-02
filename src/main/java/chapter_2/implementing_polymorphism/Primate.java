@@ -1,7 +1,7 @@
 package chapter_2.implementing_polymorphism;
 
 public class Primate {
-    public boolean hasHair(){
+    public boolean hasHair() {
         return true;
     }
 }
