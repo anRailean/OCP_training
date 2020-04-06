@@ -1,4 +1,4 @@
-package chapter_2.design_patterns;
+package chapter_2.design_patterns.sIngleton;
 
 public class HayStorage {
     private int quantity = 0;
